@@ -20,11 +20,11 @@ $RECYCLE.BIN/
 #####################
 
 # Clone of swfdr repository
-# code/swfdr
+code\swfdr\
 
 # Evernote and other shortcuts
 *.url
 
 # PDFs of the paper and commentary
-misc\Paper_Correspondence
+misc\Paper_Correspondence\
 
