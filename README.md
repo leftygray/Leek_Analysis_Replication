@@ -1,7 +1,7 @@
 Replicating and understanding the science-wise false discovery rate paper
 =========================================================================
 
-This is a mini-project to study the recent paper by Jager and Leek on the science-wise discovery rate published in Biostatistics and associated commentary. The aim is to replicate the work and in the process improve our R skills and trial various collaborative and open science tools.
+This is a mini-project to study the recent paper by Jager and Leek on the science-wise discovery rate published in Biostatistics and associated commentary. The aim is to replicate the work and in the process improve our R skills and trial various collaborative and open science tools. Basically alternative version of a journal club.
 
 The paper and other references are available from the Simply Statistics blog
 
@@ -14,7 +14,7 @@ Authors:
 --------
 
 1. Richard T. Gray <Rgray@kirby.unsw.edu.au>
-2. Andrew *insert middle initial* Craig <Acraig@kirby.unsw.edu.au>
+2. Andrew P. Craig <Acraig@kirby.unsw.edu.au>
 
 Tools Trialed
 -----
@@ -30,12 +30,31 @@ Tools Trialed
 5. **MarkdownPad2** - software to write everything in Markdown format. 
  * trial writing collaborative publications (given we don't use latex might not be that useful google docs may work better, we will see). Any final publication is likely to be in word given the work evironment we are in. 
  * Use to write up all notes and other peices of communication as text files in Markdown format
-6. **Trello** for project management
+6. **Trello** - project management
  * Github has an issue tracker which can be used as a todo list but Trello is so pretty to use
+7. **Qiqqa** - for setting up a common library of references related to the project
 
 
 Directory Structure
 -------------------
+
+In addition to trialing tools we looked at various ways to organize the project, with an eye to improving the organization and management of future more series research projects. This is what we came up with.
+
+
+All the project files are stored in 5 main directories. 
+
+#### code 
+
+#### data
+
+#### docs
+
+#### misc
+
+#### outcomes 
+
+
+
 
 
  
