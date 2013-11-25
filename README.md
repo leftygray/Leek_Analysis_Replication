@@ -38,7 +38,7 @@ Tools Trialed
 Directory Structure
 -------------------
 
-In addition to trialing tools we are exploring various ways to organize the project, with an eye to improving the organization and management of more serious research projects in the future. This is what we have come up with so.
+In addition to trialing tools we are exploring various ways to organize the project, with an eye to improving the organization and management of more serious research projects in the future. This is what we have come up with so far.
 
 
 All the project files are stored in 5 main directories. 
