@@ -1,14 +1,14 @@
 Replicating and understanding the science-wise false discovery rate paper
 =========================================================================
 
-This is a mini-project to study the recent paper by Jager and Leek on the science-wise discovery rate published in Biostatistics and associated commentary. The aim is to replicate the work and in the process improve our R skills and trial various collaborative and open science tools. Basically alternative version of a journal club.
+This is a mini-project to study the recent paper by Jager and Leek on the science-wise discovery rate published in Biostatistics and associated commentary. The aim is to replicate the work and in the process improve our R skills and trial various collaborative and open science tools. Basically this is an alternative version of a traditional journal club.
 
 The paper and other references are available from the Simply Statistics blog
 
 [Is most science false? The titans weigh in](http://simplystatistics.org/2013/09/25/is-most-science-false-the-titans-weigh-in/)
 
 
-The outcomes of doing this work will hopefully be a nice replication of the results of Jager et. al., an assessment of the work, come up with some improvements and criticisms of our own, and publish it in some form (at the very least in figshare so we and others can highlight a replication). We should also have a nice system for organizing and publishing future projects.
+The outcomes of doing this work will hopefully be a nice replication of the results of Jager et. al., an assessment of the work, some improvements and criticisms of our own, and a write-up in some form (at the very least in figshare so we and others can highlight a replication). We should also have a nice system for organizing and publishing future projects.
 
 Authors:
 --------
@@ -38,7 +38,7 @@ Tools Trialed
 Directory Structure
 -------------------
 
-In addition to trialing tools we looked at various ways to organize the project, with an eye to improving the organization and management of future more series research projects. This is what we came up with.
+In addition to trialing tools we are exploring various ways to organize the project, with an eye to improving the organization and management of more serious research projects in the future. This is what we have come up with so.
 
 
 All the project files are stored in 5 main directories. 
